@@ -22,10 +22,11 @@
 
 var cnames_active = {
   //记得对照查询你要使用的域名是否已存在或不可被注册（Ctrl+F 可快速查询）
+  // 每次PR仅允许新增一个域名，每个账号每三个月仅允许新增一次（滥用PR将被拉黑）
   // 请在下方提示处添加新的域名
-  "": "7doger.github.io/ACG.Ski",
-  "": "7doger.github.io/ACG.Ski",
-  "": "7doger.github.io/ACG.Ski"
+  "7doger": "7doger.github.io",
+  "7doge": "7doger.github.io/7doger",
+  "doge": "7doger.github.io/ACG.Ski"
   // 请在此行之上新增一行并提交 Pull Request
   //
   // 以下为本项目的保留域名，请勿修改
@@ -33,9 +34,6 @@ var cnames_active = {
   'www': 'cname.acg.ski',
   'blog': 'cname.acg.ski',
   'cn': 'cname.acg.ski',
-  'bbs': 'cname.acg.ski',
-  'forum': 'cname.acg.ski',
-  'foo': 'cname.acg.ski',
   'moe': 'cname.acg.ski',
   'acg': 'cname.acg.ski',
   'acgn': 'cname.acg.ski',
@@ -43,6 +41,12 @@ var cnames_active = {
   'nic': 'cname.acg.ski',
   'vup': 'cname.acg.ski',
   'vtb': 'cname.acg.ski',
+  'bbs': 'cname.acg.ski',
+  'forum': 'cname.acg.ski',
+  'email': 'cname.acg.ski',
+  'mail': 'cname.acg.ski',
+  'cname': 'cname.acg.ski',
+  'ns': 'cname.acg.ski',
   'cf': 'cname.acg.ski',
   'm': 'cname.acg.ski',
   'i': 'cname.acg.ski',
