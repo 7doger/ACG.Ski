@@ -25,7 +25,7 @@ var cnames_active = {
   // 每次PR仅允许新增一个域名，每个账号每三个月仅允许新增一次（滥用PR将被拉黑）
   // 请在下方提示处添加新的域名
   "7doger": "7doger.github.io",
-  "7doge": "7doger.github.io/7doger",
+  "7doge": "7doger.github.io/7doger", // noCF
   "doge": "7doger.github.io/ACG.Ski"
   // 请在此行之上新增一行并提交 Pull Request
   //
