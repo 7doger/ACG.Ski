@@ -27,9 +27,15 @@ var cnames_active = {
   "7doger": "7doger.github.io",
   "7doge": "7doger.github.io/7doger", // noCF
   "doge": "7doger.github.io/ACG.Ski"
+  
   // 请在此行之上新增一行并提交 Pull Request
   //
-  // 以下为本项目的保留域名，请勿修改
+  //
+  //
+  //
+  //
+  //
+  // 以下为本项目的保留域名，请勿修改！！！
   '@': 'cname.acg.ski',
   'www': 'cname.acg.ski',
   'blog': 'cname.acg.ski',
@@ -52,4 +58,5 @@ var cnames_active = {
   'm': 'cname.acg.ski',
   'i': 'cname.acg.ski',
   't': 'cname.acg.ski'
+  // 以上为本项目的保留域名，请勿修改！！！
 }
